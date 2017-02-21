@@ -1,5 +1,5 @@
 package zzzz;
 
-public class r {
+public class     r {
 
 }
