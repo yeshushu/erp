@@ -5,12 +5,7 @@ public class d {
 
 		 System.out.println("hello        world");
 		 System.out.println("hello        world"); 
-		 System.out.println("hello        world");
-		 System.out.println("hello        world");
-
-		 
 		
-		System.out.println("hello    world");
 	 
 
 	}
