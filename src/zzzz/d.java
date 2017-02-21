@@ -1,7 +1,7 @@
 package zzzz;
 
 public class d {
-	public  static void main(String args[]){
+	publ   ic  static void main(String args[]){
 		
 	}
 	
